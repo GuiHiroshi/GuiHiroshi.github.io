@@ -7,7 +7,7 @@ Dividido em:
 - Currículo
     - Dados escolares
     - Experiência 
-    - hard skills e soft skills), 
+    - Hard Skills e Soft Skills 
 - Premiações e Reconhecimentos
 - Portfólio
     - Artigos publicados no Medium
